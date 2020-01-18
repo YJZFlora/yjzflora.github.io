@@ -33,7 +33,29 @@ h1 {
 }
 
 #menu {
-  margin-top: 20px;
+  margin-top: 30px;
   font-weight: bold;
   color:black;
+}
+
+#active {
+  color:#fcd200;
+}
+
+#tags {
+  font-weight: bold;
+  font-size:20px;
+  margin-top: 50px;
+}
+
+#flora_photo {
+  margin-top: 50px;
+}
+
+#flora{
+  margin-top:70px;
+  font-size: 30px;
+  font-family: Futura;
+  font-weight: bold;
+  color: #dbdbdb;
 }
