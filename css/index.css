@@ -59,3 +59,29 @@ h1 {
   font-weight: bold;
   color: #dbdbdb;
 }
+
+#proj-img {
+  margin-top: 50px;
+}
+
+#projDescription {
+  text-align: left;
+  margin-top: 50px;
+  line-height: 25px;
+}
+
+#bold-text{
+  font-weight: bold;
+  color: #0084ff;
+}
+
+#contact {
+  margin-top:50px;
+  text-align: center;
+  letter-spacing: 30px;
+}
+
+#foot {
+  margin-top: 30px;
+  font-size: 10px;
+}
