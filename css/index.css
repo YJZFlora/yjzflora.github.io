@@ -61,12 +61,12 @@ h1 {
 }
 
 #proj-img {
-  margin-top: 50px;
+  margin-top: 60px;
 }
 
 #projDescription {
   text-align: left;
-  margin-top: 50px;
+  margin-top: 80px;
   line-height: 25px;
 }
 
@@ -76,7 +76,7 @@ h1 {
 }
 
 #contact {
-  margin-top:50px;
+  margin-top:80px;
   text-align: center;
   letter-spacing: 30px;
 }
